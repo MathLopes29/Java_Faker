@@ -4,6 +4,8 @@
 </div><hr>
 
 <div align="center">
-    <p> Gerador de Dados Falsos </p>
+    <p> Gerador de Dados Falsos usando a linguagem Java </p>
+    <p> Para usar esse programa é necessário ter o IntelliJ e jogar na pasta raiz da IDE </p>
+    <p> C:\Users\{NOME DO USER}\IdeaProjects </p>
 </div>
 
